@@ -1,6 +1,6 @@
 # UNet-AP2-Segmentation
 
-Copyright (c) 2026 [Your Name]. All rights reserved.
+Copyright (c) 2026 Cristopher Thompson. All rights reserved.
 
 This source code is provided for viewing and educational purposes only. No part of this repository may be copied, modified, redistributed, or used in any project—commercial or non-commercial—without the express written permission of the copyright holder.
 
